@@ -62,7 +62,7 @@ This project is a PHP-based e-commerce platform with a MySQL database backend, c
 ## Project Structure
 
 ```
-alpha_store/
+alpha-store/
 ├── docker-compose.yaml   # Docker Compose configuration
 ├── Dockerfile            # Docker image configuration
 └── src/                  # Source code
