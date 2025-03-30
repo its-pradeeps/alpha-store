@@ -7,6 +7,13 @@ Developed as a college project in 2020
 
 This project is a PHP-based e-commerce platform with a MySQL database backend, containerized using Docker for easy setup and deployment. The application provides user authentication, product browsing, order management, and user account management.
 
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL 8.0
+- **Containerization**: Docker and Docker Compose
+
 ## Features
 
 - **User Authentication**: Login and signup functionality
@@ -51,13 +58,6 @@ This project is a PHP-based e-commerce platform with a MySQL database backend, c
     <td></td>
   </tr>
 </table>
-
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Database**: MySQL 8.0
-- **Containerization**: Docker and Docker Compose
 
 ## Project Structure
 
